@@ -8,7 +8,7 @@ I'm a passionate computer science student, diving into the vast world of coding 
   
 - 💞️ I’m looking to collaborate on exciting projects that challenge my coding skills and allow me to learn from fellow developers. I believe in the power of collaboration to create something greater than the sum of its parts.
 
-- 📫 How to reach me: Feel free to connect with me on social media platforms mentioned in github or drop me an email at mhdn.cs@gmail.com. I'm always open to discussions and collaboration!
+- 📫 How to reach me: Feel free to connect with me on social media platforms mentioned in my github profile or drop me an email at mhdn.cs@gmail.com. I'm always open to discussions and collaboration!
 
 - 😄 Pronouns: He/Him
 
