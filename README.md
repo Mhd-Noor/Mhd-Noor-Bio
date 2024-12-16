@@ -14,5 +14,7 @@ I’m a passionate computer science student and IT Developer Intern🖥️ at NH
 
 -  📫 How to reach me: Feel free to connect with me on social media platforms mentioned in my github profile or drop me an email at mhdn.cs@gmail.com. I'm always open to discussions and collaboration!
 
+-  My student Github: [word](https://github.com/NoorMhd7)
+
 
 
